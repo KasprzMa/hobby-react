@@ -18,8 +18,8 @@ function App() {
           Learn React
         </a>
       </header>
-      <footer>
-        &copy; 2022 Dev-Bros
+      <footer className="App-footer">
+        <p className="App-copyright">&copy; 2022 Dev-Bros</p>
       </footer>
     </div>
   );

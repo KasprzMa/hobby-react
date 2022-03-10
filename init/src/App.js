@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <footer>
+        &copy; 2022 Dev-Bros
+      </footer>
     </div>
   );
 }

@@ -11,8 +11,10 @@ cd hobby-react
 npm install create-react-app
 
 ## Dependencies und Packages installieren und Projekt initiieren
-npm create-react-app init
+npx create-react-app init
 
 > Alle node-modules Ordner über .gitignore exkludieren
 >
 > Für weitere Befehle und Schritte README.md im init-Ordner beachten
+
+Crafted with :heart: in Northern Germany
